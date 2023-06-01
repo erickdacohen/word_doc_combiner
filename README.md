@@ -1,5 +1,7 @@
 # Word Doc Combiner
 
-Takes files from `data-raw` folder and combines them into a single word document.
+Takes files from a specified folder and combines them into a single word document.
 
-Output is found in `data-output` folder.
+useage
+
+`python3 doc_combine.py $PATH_TO_DOCX_FILES $OPTIONAL_PATH_TO_OUTPUT`
